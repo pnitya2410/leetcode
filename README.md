@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pnitya2410/leetcode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pnitya2410/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pnitya2410/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
