@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/pnitya2410/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pnitya2410/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/pnitya2410/leetcode/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pnitya2410/leetcode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pnitya2410/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pnitya2410/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
